@@ -1,0 +1,10 @@
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\bin\Debug\Tugas1_Aplikasi Sederhana.exe.config
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\bin\Debug\Tugas1_Aplikasi Sederhana.exe
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\bin\Debug\Tugas1_Aplikasi Sederhana.pdb
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\obj\Debug\Tugas1_Aplikasi Sederhana.csproj.AssemblyReference.cache
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\obj\Debug\Tugas1_Aplikasi_Sederhana.Form1.resources
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\obj\Debug\Tugas1_Aplikasi_Sederhana.Properties.Resources.resources
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\obj\Debug\Tugas1_Aplikasi Sederhana.csproj.GenerateResource.cache
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\obj\Debug\Tugas1_Aplikasi Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\obj\Debug\Tugas1_Aplikasi Sederhana.exe
+C:\Users\COMPUTER\source\repos\Tugas1_Aplikasi Sederhana\Tugas1_Aplikasi Sederhana\obj\Debug\Tugas1_Aplikasi Sederhana.pdb
